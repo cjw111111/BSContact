@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BSContact:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/BSContact_war</output-path>
+    <root id="archive" name="BSContact_war.war">
+      <element id="artifact" artifact-name="BSContact:war exploded" />
+    </root>
+  </artifact>
+</component>
